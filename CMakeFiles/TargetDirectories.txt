@@ -1,0 +1,3 @@
+/home/vediyappan/work/v-repo/helloworld-ninja/CMakeFiles/helloworld.dir
+/home/vediyappan/work/v-repo/helloworld-ninja/CMakeFiles/edit_cache.dir
+/home/vediyappan/work/v-repo/helloworld-ninja/CMakeFiles/rebuild_cache.dir
